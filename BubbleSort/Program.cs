@@ -151,11 +151,11 @@ namespace BubbleSort
                 }
                 
                 start++;
-               foreach(int i in arrayToSort)
+              /* foreach(int i in arrayToSort)
                 {
                     Console.Write(i + " ");
                 }
-                Console.WriteLine();
+                Console.WriteLine();*/
                 Console.ReadKey();
 
             }
